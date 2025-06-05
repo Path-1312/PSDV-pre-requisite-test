@@ -45,9 +45,3 @@ This repository contains my solutions to the pre-requisite test for the PSDV (Pr
 - Probability calculations
 - Basic statistical analysis
 
-## ✅ Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Path-1312.git
-   cd Path-1312/PSDV-pre-requisite-test
